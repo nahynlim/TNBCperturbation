@@ -1,6 +1,5 @@
 # Bayesian Network Modeling of Cell–Cell Communication for Drug Repositioning in Triple-Negative Breast Cancer (TNBC)  
-**BE562 Course Project**  
-Simran Kaur, Aiden Ly, Nadine Lim, Haeun Oh
+**BE562 Course Project (Fall 2025):** Simran Kaur, Aiden Ly, Nadine Lim, Haeun Oh
 
 ## Overview
 Triple-negative breast cancer (TNBC) is an aggressive breast cancer subtype lacking ER, PR, and HER2 receptors, which limits targeted treatment options. TNBC tumors are highly heterogeneous and driven by complex interactions between malignant and microenvironmental cell populations. This project develops a computational framework that integrates single-cell RNA-seq analysis, cell–cell communication inference, and Bayesian network modeling to identify candidate drugs and mechanisms of action for potential repositioning in TNBC.
